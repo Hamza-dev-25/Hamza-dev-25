@@ -1,29 +1,189 @@
-<h1 align="center">Hi 👋, I'm HAMZA ALi</h1>
-<h3 align="center">A Passionate Developer, Exploring Deep Learning & Generative AI 🚀</h3>
+<h1 align="center">Hi 👋, I'm Hamza Ali</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hamza-dev-25&label=Profile%20views&color=0e75b6&style=flat" alt="hamza-dev-25" /> </p>
+<h3 align="center">A Passionate Developer Exploring Deep Learning & Generative AI 🚀</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamza-dev-25" alt="hamza-dev-25" /></a> </p>
-
-- 🔭 I’m currently working on [Deep Learning & Generative AI](https://github.com/Hamza-dev-25/Chat-bot)
-
-- 🌱 I’m currently learning **Generative AI**
-
-- 👯 I’m looking to collaborate on **Generative AI & LLM Projects**
-
-- 💬 Ask me about **React, Deep Learning**
-
-- 📫 How to reach me **hamzaaliwork0@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/hamza ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="hamza ali" height="30" width="40" /></a>
-<a href="https://instagram.com/im_hamzaa_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="im_hamzaa_ali" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hamza-dev-25&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamza-dev-25&show_icons=true&locale=en&layout=compact" alt="hamza-dev-25" /></p>
+## 👨‍💻 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hamza-dev-25&show_icons=true&locale=en" alt="hamza-dev-25" /></p>
+* 🧠 Passionate about **Deep Learning & Generative AI**
+* 🤖 Currently exploring **LLMs, RAG & AI Applications**
+* ⚛️ Interested in **React & AI-powered applications**
+* 🚀 Love building projects that combine **AI + Software Development**
+* 📚 Always learning and experimenting with new technologies
+
+---
+
+## 🚀 Currently Working On
+
+* 🧠 Deep Learning
+* 🤖 Generative AI & LLMs
+* 🔗 RAG & LangChain
+* ⚛️ React Development
+* 🚀 AI-powered applications
+
+---
+
+## 🤝 Looking to Collaborate On
+
+* 🤖 Generative AI & LLM Projects
+* 🧠 Deep Learning Applications
+* ⚛️ AI-powered Web Applications
+* 🌍 Open Source Projects
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS"/>
+</p>
+
+### ⚛️ Frontend
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45" alt="React"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" width="45" height="45" alt="Redux"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="45" height="45" alt="Bootstrap"/>
+</p>
+
+### 🧠 AI / Machine Learning
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas"/>
+</p>
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" width="45" height="45" alt="Scikit-Learn"/>
+</p>
+
+### 🤖 Generative AI
+
+`LangChain` • `RAG` • `LLMs` • `Prompt Engineering` • `Embeddings` • `Vector Databases`
+
+### 🗄️ Databases & Backend
+
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="45" height="45" alt="Node.js"/>
+</p>
+
+---
+
+## ⭐ Featured Projects
+
+### 🍎 Fruit Classification
+
+> Deep Learning based image classification project for identifying different types of fruits.
+
+🔗 **Repository:** [Fruit Classification](https://github.com/Hamza-dev-25)
+
+### 🌊 Disaster Detection System
+
+> CNN-based image classification system for detecting Earthquake, Flood and Wildfire.
+
+🔗 **Repository:** [Disaster Detection](https://github.com/Hamza-dev-25)
+
+### 🤖 Generative AI / RAG Chatbot
+
+> AI chatbot exploring LLMs, LangChain and Retrieval-Augmented Generation.
+
+🔗 **Repository:** [Chat Bot](https://github.com/Hamza-dev-25/Chat-bot)
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hamza-dev-25&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamza-dev-25&layout=compact&hide_border=true&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=hamza-dev-25&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hamza-dev-25&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1" />
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hamza-dev-25&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+# 💻 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hamza-dev-25&repo=Chat-bot&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📌 GitHub Profile Highlights
+
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/hamza-dev-25?label=Followers&style=for-the-badge&color=0e75b6"/>
+
+<img src="https://img.shields.io/github/stars/hamza-dev-25?label=Total%20Stars&style=for-the-badge&color=yellow"/>
+
+<img src="https://img.shields.io/github/commit-activity/y/hamza-dev-25?label=Commit%20Activity&style=for-the-badge"/>
+
+</p>
+
+---
+
+## 📫 Reach Me
+
+<p align="left">
+
+📧 **Email:** [hamzaaliwork0@gmail.com](mailto:hamzaaliwork0@gmail.com)
+
+💼 **LinkedIn:** [Connect with me](https://www.linkedin.com/)
+
+🐙 **GitHub:** [Hamza-dev-25](https://github.com/Hamza-dev-25)
+
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> **I don't just learn technology — I build with it. 🚀**
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! ⭐</b>
+</p>
+
+<p align="center">
+  <i>Let's build something amazing together.</i> 🚀
+</p>
